@@ -1,0 +1,81 @@
+body{
+  margin:0;
+  text-align: center;
+font-family: 'Dancing Script', cursive;
+}
+
+h1{
+  margin-top: 0;
+  font-family: 'Dancing Script',cursive;
+
+
+}
+h2{
+  font-family: 'Sacromento',sans-serif;
+}
+h3{
+  font-family:'Merriweather',sans-serif;
+}
+
+
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding: 100px;
+}
+
+
+.middle-container{
+  background-color: red;
+  width:200px;
+  height:200px;
+
+}
+
+
+.bottom-container{
+  background-color: blue;
+  width:200px;
+  height:200px;
+}
+
+
+.pro{
+  text-decoration: underline;
+}
+
+
+
+.top-cloud{
+  position: absolute;
+  right:40px;
+  top:50px;
+
+}
+p{
+  text-align: center;
+}
+
+
+
+
+
+
+.bottom-cloud{
+  position:absolute;
+  left:30px;
+  bottom:400px;
+}
+
+
+
+
+
+
+
+
+
+
+div{
+  background-color: #E4F9F5;
+}
